@@ -13,9 +13,6 @@ Autonomous Customer Agent — AI for Seamless Support &amp; Service AI-powered a
  Day 4: Modeling & evaluation (ML algorithms, cross-validation) — use example projects from the repos to illustrate proper modeling workflows
 
  Day 5: Advanced topics or mini-projects — let students explore any project from the big “500-AI-…” repository or pick a Kaggle notebook, to implement end-to-end workflow (data → model → evaluation)
-Final Reminders and Announcements
-
-Congrats on completing the 5-day AI Agents Intensive course!
 
 🎯 Capstone Project:  create an AI agents project showcasing a use case that leverages some of the key capabilities learned throughout this course. The top 12 winners will receive Kaggle swag and have their work featured on Kaggle’s social media platforms. More details about the Capstone Project, including the evaluation and submission process will be shared in an email later today. Participation in the Capstone Project is optional.
 ⭐ Kaggle badge and certificate: Due to high demand, participants in the Capstone Project are eligible to earn a badge and certificate on their Kaggle profile. These will be added to all eligible profiles by the end of December 2025.
