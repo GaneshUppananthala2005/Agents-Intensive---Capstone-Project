@@ -34,4 +34,14 @@ USER: I need a refund please.
 USER: Hello, I need help.
 {
   "intent": "general_help",
+{
+  "intent": "general_help",
+  "urgency": "low",
+  "reply": "Sure, I'm here to help. Could you please share more details?",
+  "escalation": {
+    "escalate": false,
+    "note": "No escalation required."
+  }
+}
+--------------------------------------------------
 
