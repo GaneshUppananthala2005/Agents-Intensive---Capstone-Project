@@ -1,7 +1,7 @@
 # Agents-Intensive---Capstone-Project
 Autonomous Customer Agent — AI for Seamless Support &amp; Service AI-powered assistant that delivers seamless, real-time support to users by autonomously handling customerqueries and service interactions.”
 
-### 🎯 How you can use them in your 5-day course
+### 🎯 The 5-days course Include:
 
  Day 1: Introduce basics — use the “data cleaning / basic ML” sections of drakearch/kaggle-courses + a simple project from Kaggle-Projects or kaggle-notebooks
 
