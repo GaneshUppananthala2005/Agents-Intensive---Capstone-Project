@@ -9,3 +9,29 @@ USER: I want to cancel my subscription.
   }
 }
 --------------------------------------------------
+USER: My invoice amount is wrong.
+{
+  "intent": "billing",
+  "urgency": "medium",
+  "reply": "It seems you have a billing concern. Please send your invoice number for verification.",
+  "escalation": {
+    "escalate": false,
+    "note": "No escalation required."
+  }
+}
+--------------------------------------------------
+USER: I need a refund please.
+{
+  "intent": "refund",
+  "urgency": "high",
+  "reply": "I understand you want a refund. Please share your order ID so I can assist you further.",
+  "escalation": {
+    "escalate": true,
+    "note": "Urgent refund issue. Needs human review."
+  }
+}
+--------------------------------------------------
+USER: Hello, I need help.
+{
+  "intent": "general_help",
+
