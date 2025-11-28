@@ -1,0 +1,11 @@
+USER: I want to cancel my subscription.
+{
+  "intent": "cancellation",
+  "urgency": "high",
+  "reply": "I can help you cancel your subscription. Kindly provide your registered email.",
+  "escalation": {
+    "escalate": true,
+    "note": "Urgent cancellation issue. Needs human review."
+  }
+}
+--------------------------------------------------
